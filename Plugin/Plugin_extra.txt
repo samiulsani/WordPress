@@ -1,0 +1,91 @@
+Plugin:
+
+Wordpress Admin dashboard Any menu Hide:
+
+Admin Menu Editor
+Wordpress Old dashboard:
+Disable gutenberg	
+Auto Backup:
+updraftplus ( premium for migration )
+Auto Update plugin:
+https://wplicense.com/
+
+
+Cookie:
+
+GDPR-Cookies consent pop up plugin 
+
+
+Hide any notification from admin dashboard:
+
+Disable Admin Notices individually
+Disable all plugin updates:
+Easy Updates Manager
+
+
+For Lms site maker:
+
+Lifter Lms
+Learnpress
+Learn dash
+
+
+Hide or show Menu Item for logged in & out:
+
+User menus – Nav Menu Visibility
+
+
+For smooth scrool system in website:
+
+Mousewheel smooth scroll free wordpress plugin
+Menu Item visibility:
+User Menus
+
+
+Blog content write:
+
+Thrive architect (page builder)
+Message plugin:
+Wp Private Message
+
+
+
+Popup Plugin for marketing:
+
+Hustle
+Coupon box for woocommerce ( discount sent with popup)
+
+
+Add more field in create page option:
+
+ACF ( advanced custom field )
+
+
+Load fetured image from url:
+
+Featured Image from URL ( FIFU )
+
+
+
+Third party Search plugin:
+
+Ivory search
+FiboSearch - AJAX Search for WooCommerce
+
+
+
+Registration form with dashboard:
+
+RegistrationMagic
+
+
+Notification:
+
+NotificationX – Best FOMO, Social Proof, WooCommerce Sales Popup & Notification Bar Plugin With Elementor
+
+
+
+Music system website make plugin:
+
+Sonar music player / pro – single site
+Music player for woocommerce – multi-vendor support
