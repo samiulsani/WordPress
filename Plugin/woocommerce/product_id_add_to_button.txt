@@ -1,0 +1,5 @@
+How to add wocommerce product id in pricing table:
+
+http://yourdomain.com/cart/?add-to-cart=ID​
+Or
+http://yourdomain.com/cart or Page name/?add-to-cart=ID
