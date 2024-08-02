@@ -1,0 +1,19 @@
+Booking:
+Simple booking or appointment free :
+Easy Appointments
+
+
+Booking or appointment Paid :
+ Amelia ( Appointments and events )
+Jet appointments or booing
+
+Form:
+Form make drag drop :
+Contact form 7 ( simple and old )
+Wp forms
+Formidable forms ( best and huge feature )
+Fluent forms (pro has)
+METFORM (Elementor use any type form make)
+Forminator ( for create form and login ,registration )
+Gravity forms
+Ninja forms
