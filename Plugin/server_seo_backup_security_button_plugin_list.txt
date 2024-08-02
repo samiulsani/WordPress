@@ -1,0 +1,39 @@
+SERVER:
+
+1. wp server stats
+
+
+SEO:
+
+Seo Plugin for Wp:
+
+Rank Math Seo plugin for wordpress
+Yoast Seo Plugin for wordpress
+All In One Seo Pack for wordpress
+Seo pressor
+Seo Ultimate
+
+
+Backup & Transfer:
+
+Domain to Domain site transfer:
+All in one wp migration
+Wpvivid
+updraftplus ( premium for migration & Auto backup)
+wp reset (for reset & instant backup)
+
+
+Floting Button:
+
+Add floating site button all website:
+Buttonizer ( pro available my pc )
+Chaty
+All-in-One-Support-Button-Callback-Request.-WhatsApp-Messenger-Telegram-LiveChat-and-more..
+
+
+
+Wp security:
+Wordpress security:
+Limit Login Attempts Reloaded
+Wps Hide Login
+iThemes Security
