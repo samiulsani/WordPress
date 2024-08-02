@@ -1,0 +1,34 @@
+Speed Optimization:
+
+Image Optimizer plugin:
+Wp smush or pro
+Webp express
+IMIGIFY
+
+For Cash Optimizer plugin:
+
+W3total cache
+Wp super cache
+Wp fastest cache
+
+For minify html or css or js:
+
+Autoptimize
+Reduce Unused CSS 
+Fast Velocity Minify
+
+From google font collect:
+
+Swap Google Fonts Display
+GOOGLE FONT OPTIMIZER
+OMGF 
+
+All Autoptimize or total cache altaranative:
+
+Wp rocket (paid)
+Clearfy Cache – WordPress optimization plugin, Minify HTML, CSS & JS, Defer
+WP Meteor Page Speed Optimization Topping
+
+Jquery problem solved:
+
+jQuery Manager for WordPress
