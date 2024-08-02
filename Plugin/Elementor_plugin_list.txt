@@ -1,0 +1,73 @@
+Elementor:
+
+Elementor Best Addons:
+Elements kit Elementor addons by wpmet – free & best pro download
+WunderWp – for using more preset free—total free
+Happy Addons – free & pro
+Unlimited Elements for elementor *
+The plus addons – free & pro  -- available my computer (more feature copy system from their site)
+HT Mega – free elements premium
+LiveMesh Addons
+Premium Addons – free & pro
+Essential Addons
+Envato Elements – Full website presets insert -- Advanced free & pro
+Before After Image Comparison Slider for Elementor free WordPress plugin
+Elementor Addons Elements ( for add background particles and so more option js )**
+designer-powerup-for-elementor ( for block or background shape design)
+Crocoblock ( best paid all elements crocoblock.com)
+Codesigner – woocommerce product and custom checkout, cart feature.
+
+
+Elementor Custom dynamic post design:
+
+ Elementor Custom Skin
+Custom Dynamic website:
+Jet engine
+ACF
+CPT UI
+Meta Box
+
+Duplicate post, page, template:
+
+Premium Addons for Elementor ( Best for elementor template clone )
+Yoast Duplicate Post
+Duplicate Page by mndpsingh287
+
+
+Add Animation Images & gif in Elementor template:
+
+Lottie ( search google lottie and copy file link add webiste )
+Hide or show any template for specific users:
+Visibility Logic for Elementor
+
+
+For Elementor sidebar popup plugin:
+
+Flexible Elementor Panel
+
+
+Elementor Image mask Plugin:
+
+TF Clipping mask image for elementor
+Happy addon has this feature
+
+Footerbar using elementor:
+
+Create footerbar like app or ecommerce website mobile version.
+Install in wordpress elementor header and footer builder plugin.
+Create a footer bar.
+Custom css applied.
+selector {
+position: fixed;
+width: 100%;
+bottom: 0;
+z-index: 997;
+}
+
+@media(max-width: 1024px){
+#colophon {
+margin-bottom:65px;
+}
+}
+
+Follow video: https://www.youtube.com/watch?v=GOpz5_BWjOQ
