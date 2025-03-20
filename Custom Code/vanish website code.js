@@ -52,5 +52,5 @@
     }
 </style>
 <div class="client-message">
-    <p>Please... <br/>Pay Your Developer!</p>
+    <p>Please... <br/>Pay Your Developer! <br/> or contact sameulslm@gmail.com</p>
 </div>
